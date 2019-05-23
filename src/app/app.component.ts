@@ -8,7 +8,7 @@ import { LoginResponse } from './login/login-response';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular Login';
+  title = 'Angular Login V1.0';
 
   loginModel: Login
 
